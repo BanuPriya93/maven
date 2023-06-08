@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createCustomerModule]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-08T18:58:34Z" name="Suite" finished-at="2023-06-08T18:58:34Z" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2023-06-08T18:58:34Z" name="Test" finished-at="2023-06-08T18:58:34Z" duration-ms="68">
+      <class name="com.testscript.CustomerModule">
+        <test-method signature="testCreateCustomer()[pri:0, instance:com.testscript.CustomerModule@78e4deb0]" started-at="2023-06-08T18:58:34Z" name="testCreateCustomer" finished-at="2023-06-08T18:58:34Z" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createCustomerModule]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+      </class> <!-- com.testscript.CustomerModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
