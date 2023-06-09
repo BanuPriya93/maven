@@ -5,12 +5,12 @@
       <![CDATA[createCustomerModule]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-08T18:58:34Z" name="Suite" finished-at="2023-06-08T18:58:34Z" duration-ms="68">
+  <suite started-at="2023-06-09T08:12:26Z" name="Suite" finished-at="2023-06-09T08:12:26Z" duration-ms="68">
     <groups>
     </groups>
-    <test started-at="2023-06-08T18:58:34Z" name="Test" finished-at="2023-06-08T18:58:34Z" duration-ms="68">
+    <test started-at="2023-06-09T08:12:26Z" name="Test" finished-at="2023-06-09T08:12:26Z" duration-ms="68">
       <class name="com.testscript.CustomerModule">
-        <test-method signature="testCreateCustomer()[pri:0, instance:com.testscript.CustomerModule@78e4deb0]" started-at="2023-06-08T18:58:34Z" name="testCreateCustomer" finished-at="2023-06-08T18:58:34Z" duration-ms="24" status="PASS">
+        <test-method signature="testCreateCustomer()[pri:0, instance:com.testscript.CustomerModule@78e4deb0]" started-at="2023-06-09T08:12:26Z" name="testCreateCustomer" finished-at="2023-06-09T08:12:26Z" duration-ms="25" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[createCustomerModule]]>
